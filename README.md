@@ -12,4 +12,6 @@
 <br>
 <br>
 
-![HamtaroKawaiiGIF](https://github.com/camsmello/camsmello/assets/168017963/09a89491-609b-4c1d-9d43-016420dd6891)
+<p>
+<img src="https://github.com/camsmello/camsmello/assets/168017963/09a89491-609b-4c1d-9d43-016420dd6891" width="200" height="200">
+</p>
