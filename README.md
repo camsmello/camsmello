@@ -1,17 +1,18 @@
-![github-header-image (3)](https://github.com/camsmello/camsmello/assets/168017963/b796499c-41a4-4f07-8425-2aa458b8e240)
+## Oi, meu nome é Camila! 👋
 
-<br>
-<br>
+🌱 Atualmente sou comissária de voo em transição de carreira para a área de TI. 
 
-🌿 Oi, me chamo Camila Mello, tenho 27 anos e estou cursando Análise e Desenvolvimento de Sistemas.
-<br>
-🌿 Atualmente trabalho na área da aviação. 
-<br>
-🌿 Amo ouvir música, praticar exercícios físicos e estudar!
+✈️ Amo aviação, ouvir música e praticar exercícios físicos!
 
-<br>
-<br>
+🔭 Estou participando do bootcamp da Santander em parceria com a DIO, com foco em desenvolvimento Front-End.
 
-<p>
-<img src="https://github.com/camsmello/camsmello/assets/168017963/09a89491-609b-4c1d-9d43-016420dd6891" width="200" height="200">
-</p>
+💻 Minhas principais tecnologias são: **HTML**, **CSS** e **JavaScript**.
+
+---
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+
