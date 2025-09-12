@@ -4,7 +4,7 @@
 
 ✈️ Amo aviação, ouvir música e praticar exercícios físicos!
 
-🔭 Estou participando do bootcamp da Santander em parceria com a DIO, com foco em desenvolvimento Front-End.
+🔭 Estou participando do bootcamp da Santander em parceria com a DIO, com foco em desenvolvimento Front-End e Santander Code Girls, com foco em AWS.
 
 💻 Minhas principais tecnologias são: **HTML**, **CSS** e **JavaScript**.
 
